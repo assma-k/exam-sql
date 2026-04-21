@@ -15,8 +15,8 @@ SELECT DISTINCT colonne FROM tablename
 WHERE
 
 6. 
-WHERE TERMINATED BY 'string'
-WHERE STARTING BY 'string'
+WHERE jsp LIKE '%string' 
+
 
 7.
 AND c est avec OR c est ou 

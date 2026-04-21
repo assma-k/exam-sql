@@ -17,7 +17,7 @@ SELECT * FROM users
 WHERE name 
 OR
 WHERE firstname 
-STARTING BY "Mar"
+LIKE "Mar%"
 
 15.
 SELECT * FROM users
